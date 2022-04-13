@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
   "repository": {
@@ -19,6 +18,7 @@
   },
   "homepage": "https://github.com/Maicolt401/202204-W2CH2-maicol-torres#readme",
   "devDependencies": {
+    "@types/jest": "^27.4.1",
     "husky": "^7.0.0"
   }
 }
